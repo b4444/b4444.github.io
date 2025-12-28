@@ -1,7 +1,7 @@
 # Personal page
 
 * Some tips for [Astra Linux Special Edition 1.7](https://astra-bts.freemyip.com)
-* The end.
+* [The end](https://b4444.github.io/)
 
 
 IMG:\
